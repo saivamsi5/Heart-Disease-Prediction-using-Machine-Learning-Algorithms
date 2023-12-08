@@ -1,1 +1,1 @@
-# Cardiac-illness-detection-using-ML-algorithms
+# Heart-Disease-Prediction-using-ML-algorithms
